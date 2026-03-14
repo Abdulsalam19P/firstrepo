@@ -1,3 +1,3 @@
-Version Control System using Git.
-<br>
-GitHub repository created successfully.
+mkdir Firstrepo
+cd Firstrepo
+git init
